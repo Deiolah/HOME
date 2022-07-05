@@ -5,21 +5,24 @@ padding: 0%;
 background-color: aquamarine;
 }
 
-/* FIRST DIV*/
-    span {
-     
+div{
+  background-color: navy;
+}
+
+.navbar span {
+  padding:40px;
       display: block;
     background-color: whitesmoke;
     float: left;
 
-      }
+}
 
   nav{
   font-size: 20px;
   display:block;
   padding:40px;
   float: right;
-  background-color: navy;
+  
   }
 
     
