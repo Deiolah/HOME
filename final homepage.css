@@ -39,14 +39,14 @@ background-color: rgb(74, 18, 228);
 
 
           a:hover{
-            background-color:gold;
+            background-color:black;
             color: blueviolet;
             cursor: pointer;
 
           }
 
  .active{
-background-color: black;
+background-color: aqua;
 color: white;
 
 }   
