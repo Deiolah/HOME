@@ -1,0 +1,71 @@
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+/*margin: 0%;
+padding: 0%;*/
+background-color: aquamarine;
+}
+
+/* FIRST DIV*/
+    #img1 {
+      padding: 40px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    background-color: whitesmoke;
+      }
+
+
+
+
+
+/* this is where I write about the second div*/
+
+
+
+.homepage{
+ 
+  
+  
+  }
+
+  ul{
+  list-style: none;
+  font-size: 20px;
+  display:inline;
+  top: 200px;
+  position: absolute;  
+  padding:0;
+  
+  }
+
+    li{
+       float: left;
+       
+       
+    }
+
+      a{
+        padding: 30px;
+        background-color: navy;
+        color: white;
+        text-decoration: none;
+       
+ 
+      }
+
+
+          a:hover{
+            background-color:whitesmoke;
+            color: black;
+            cursor: pointer;
+
+          }
+
+ .active{
+background-color: gold;
+color: blueviolet;
+
+}   
+
+
+/* Later on in life...i.e after this project , find out how to merge a nav bar and a logo together*/
