@@ -6,12 +6,13 @@ background-color: aquamarine;
 }
 
 /* FIRST DIV*/
-    #img1 {
+    span {
       padding: 40px;
       display: block;
       margin-left: auto;
       margin-right: auto;
     background-color: whitesmoke;
+    float: left;
       }
 
 
@@ -22,33 +23,21 @@ background-color: aquamarine;
 
 
 
-.homepage{
- 
-  
-  
-  }
-
-  ul{
-  list-style: none;
+  nav{
   font-size: 20px;
   display:inline;
-  top: 200px;
-  position: absolute;  
-  padding:0;
+  padding:10px;
+  float: right;
   
   }
 
-    li{
-       float: left;
-       
-       
-    }
-
+    
       a{
         padding: 30px;
         background-color: navy;
         color: white;
         text-decoration: none;
+        border-radius: 5cm;
        
  
       }
