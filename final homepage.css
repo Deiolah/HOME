@@ -7,7 +7,7 @@ background-color: rgb(74, 18, 228);
 
 
  div{
-  background-color: navy;
+  
  } 
 
 
@@ -24,7 +24,7 @@ background-color: rgb(74, 18, 228);
   display:block;
   padding:40px;
   float: right;
-  
+  background-color: navy;
   
   }
 
