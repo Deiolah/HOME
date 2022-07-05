@@ -5,10 +5,11 @@ padding: 0%;
 background-color: rgb(74, 18, 228);
 }
 
-div{
+
+ div{
   background-color: navy;
-  
-}
+ } 
+
 
 .navbar span {
   padding:40px;
@@ -23,7 +24,7 @@ div{
   display:block;
   padding:40px;
   float: right;
-  background-color: navy;
+  
   
   }
 
