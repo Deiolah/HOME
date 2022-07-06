@@ -6,7 +6,10 @@ background-color: rgb(74, 18, 228);
 }
 
 
- div{
+ img{
+  border-radius:10px;
+   height: 20px;
+   width: 30px;
   
  } 
 
