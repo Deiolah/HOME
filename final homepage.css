@@ -16,10 +16,9 @@ background-color: rgb(74, 18, 228);
 
 
 .navbar span {
-  padding:0;
-      display: block;
-    background-color: whitesmoke;
-    float: left;
+      padding:0;
+      display: inline;
+      float: left;
 
 }
 
