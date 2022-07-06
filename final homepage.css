@@ -17,7 +17,7 @@ background-color: rgb(74, 18, 228);
 
 .navbar span {
       padding:0;
-      display: inline;
+      display: inline-block;
       float: left;
 
 }
