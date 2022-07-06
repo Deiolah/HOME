@@ -7,7 +7,7 @@ background-color: rgb(74, 18, 228);
 
 
  img{
-    width: 110px;
+    width: 105px;
     height: 100px;
     border-radius: 10px;
     background-color: whitesmoke;
@@ -17,7 +17,7 @@ background-color: rgb(74, 18, 228);
 
 .navbar span {
       padding:0;
-      display: inline-block;
+      display: inline;
       float: left;
 
 }
